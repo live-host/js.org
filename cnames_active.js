@@ -2740,6 +2740,7 @@ var cnames_active = {
   "readcolor": "keiww.github.io/readcolorhex",
   "readit": "teebu.github.io/readit",
   "readmix": "iaseth.github.io/readmix",
+  "rawfun": "rawfun.github.io/cognitive-architecture",
   "reager": "reagerssalss.github.io/reager",
   "realt": "vnkitaev.github.io/realt",
   "reask": "mcsh.github.io/reask",
